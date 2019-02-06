@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 
 	<head>
-		<title>APRS Passcode Generator - Passcode</title>
+		<title>Gerador de senha APRS - Senha</title>
 		<style type="text/css" media="screen">
 			body {
 				font-family: Arial, "MS Trebuchet", sans-serif;
@@ -31,14 +31,14 @@
 	<body>
 		<div id="container">
 		
-			<h1>APRS Passcode Generator</h1>
+			<h1>Gerador de senha APRS</h1>
 			
-			<h2>Your Passcode: <span class="green"><?php echo $passcode; ?></span></h2>
+			<h2>Sua Senha: <span class="green"><?php echo $passcode; ?></span></h2>
 			
-			<p><a href="../index.php">Generate a new Passcode</a></p>
+			<p><a href="../index.php">Gerar uma nova Senha</a></p>
 			
-			<p>Techical Example of Passcode Generation using PHP</p>
-			<p>Source code available on <a href="https://github.com/magicbug/PHP-APRS-Passcode" title="Github" target="_blank">Github</a></p>
+			<p>Exemplo técnico típico de geração de Senha usando PHP</p>
+			<p>Código fonte disponível em <a href="https://github.com/magicbug/PHP-APRS-Passcode" title="Github" target="_blank">Github</a></p>
 		</div>
 	</body>
 
