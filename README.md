@@ -1,4 +1,4 @@
 PHP-APRS-Passcode
 =================
 
-Technical example on how to generate APRS network passcodes required for mobile applications using PHP an [Example](http://apps.magicbug.co.uk/passcode/) is available to try it out.
+Exemplo técnico de como gerar senhas da rede APRS necessárias para aplicações móveis usando PHP. Um [Exemplo](http://apps.magicbug.co.uk/passcode/) está disponível para testar.
